@@ -1,5 +1,7 @@
 package stringprogram;
 
+//Create a string with no spaces
+
 public class Excercise_7 {
     public static void main(String[] args) {
         String s = new String("NO26 Sound");

@@ -1,5 +1,7 @@
 package stringprogram;
 
+//Create a string having digit first followed by character
+
 public class Excercise_6 {
     public static void main(String[] args) {
         String s = new String("NO26 Sound");
